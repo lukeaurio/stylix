@@ -192,6 +192,12 @@
     githubId = 55986107;
     name = "Louis Thevenet";
   };
+  lukeaurio = {
+    email = "lukeaurio@proton.me";
+    github = "lukeaurio";
+    githubId = 16072348;
+    name = "Lukas Aurio";
+  };
   make-42 = {
     email = "ontake@ontake.dev";
     github = "make-42";

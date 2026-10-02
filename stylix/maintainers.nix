@@ -60,6 +60,12 @@
     github = "khas-amir";
     githubId = 11248328;
   };
+  lukeaurio = {
+    email = "lukeaurio@proton.me";
+    name = "Lukas Aurio";
+    github = "lukeaurio";
+    githubId = 16072348;
+  };
   make-42 = {
     email = "ontake@ontake.dev";
     name = "Louis Dalibard";
